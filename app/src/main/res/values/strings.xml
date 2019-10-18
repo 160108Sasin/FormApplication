@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FormApplication</string>
+
+
+    <string-array name="pradesh">
+        <item>pradesh one</item>
+        <item>pradesh two</item>
+        <item>pradesh three</item>
+        <item>pradesh four</item>
+        <item>pradesh five</item>
+    </string-array>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
